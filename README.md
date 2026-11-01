@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Julio Morales 👋</h1>
 <h3 align="center">Aspiring Cloud Security / Blue Team Analyst · Homelab builder · Bilingual (EN/ES)</h3>
 
-<div><p align="center">
-  <div><a href="mailto:juliomorales298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <p align="center">📫 <b>juliomorales298@gmail.com</b></p></div>
-  
+<p align="center">
+  <a href="mailto:juliomorales298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/juliomorales298"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-</p></div>
+</p>
+
+<p align="center">📫 <b>juliomorales298@gmail.com</b></p>
 
 ---
 
