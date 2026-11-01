@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="mailto:juliomorales298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p align="center">📫 <b>juliomorales298@gmail.com</b></p>
   <a href="https://tryhackme.com/p/juliomorales298"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
