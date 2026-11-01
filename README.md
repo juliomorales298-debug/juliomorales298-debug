@@ -15,8 +15,9 @@
 
 - 🔐 Transitioning into **cybersecurity**, focused on **cloud security** and **defensive (Blue Team)** work
 - 🏗️ Currently a **Project Manager** in disaster restoration — I run field teams, coordinate subcontractors, and handle insurance and client communication in English and Spanish
-- 🖥️ I learn by building: I rebuilt a discarded workstation into a **Proxmox homelab** that runs my self-hosted services and a private, on-prem AI
-- 🌎 Based in Puerto Rico · Open to **remote US roles**
+- 🖥️ I learn by building: I rebuilt a discarded workstation into a **Proxmox homelab** that runs my self-hosted services and a private on-premise AI
+- 🌎 Based in Puerto Rico · Open to **remote US roles** · Open to **relocate**
+
 
 ## 📜 Certifications roadmap
 
